@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik'),
+         url('../assets/fonts/Rubik-Regular.ttf') format('ttf'),
+         url('../assets/fonts/Rubik-Regular.eot') format('eot'),
+         url('../assets/fonts/Rubik-Regular.woff') format("woff"),
+         url('../assets/fonts/Rubik-Regular.woff2') format("woff2");
+}
+
+@font-face {
+    font-family: 'Rubik-Medium';
+    src: local('Rubik'),
+         url('../assets/fonts/Rubik-Medium.ttf') format('ttf'),
+         url('../assets/fonts/Rubik-Medium.eot') format('eot'),
+         url('../assets/fonts/Rubik-Medium.woff') format("woff"),
+         url('../assets/fonts/Rubik-Medium.woff2') format("woff2");
+}
+
+@font-face {
+    font-family: 'Rubik-Bold';
+    src: local('Rubik'),
+         url('../assets/fonts/Rubik-Bold.ttf') format('ttf'),
+         url('../assets/fonts/Rubik-Bold.eot') format('eot'),
+         url('../assets/fonts/Rubik-Bold.woff') format("woff"),
+         url('../assets/fonts/Rubik-Bold.woff2') format("woff2");
+}
+
+html, body,
+h1, h2, h3, h4, h5, h6,
+p,
+ul, li,
+div {
+    margin: 0;
+    padding: 0;
+}
